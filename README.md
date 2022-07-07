@@ -16,3 +16,5 @@ project/
 *    └── README.md
 ```
 In the `R` directory you will find the scripts. Let's start using R!
+
+Hello World
