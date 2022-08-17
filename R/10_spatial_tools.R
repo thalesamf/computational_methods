@@ -1,10 +1,10 @@
 #Packages-----------------------------------------------------------------------
-library("sf")
+library(sf)
 library(tmap)
 library(dplyr)
 library(rnaturalearth)
 library(rnaturalearthhires)
-library("raster")
+library(raster)
 #Examing an sf code-------------------------------------------------------------
 data(World)
 tm_shape(World) +
