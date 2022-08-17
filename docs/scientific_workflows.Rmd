@@ -9,6 +9,10 @@ output:
     df_print: paged
 abstract: |
   it will be worth reading the report
+  
+bibliography: AEB.bib
+
+
 ---
 
 ```{r setup, include=FALSE}
